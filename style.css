@@ -62,6 +62,7 @@ body {
   padding: 10px 30px;
   margin-right: 10px;
   font-size: 14px;
+  transition: 0.4s ease;
 }
 .btn:active {
   transform: scale(0.98);
